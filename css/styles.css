@@ -1,0 +1,50 @@
+html, body {
+	height: 100%;
+}
+
+body {
+	font-family: sans-serif;
+	
+}
+
+p {
+	color: #fff;
+	text-shadow: 2px 2px 5px #333;
+	font-size: 1.5em;
+}
+
+.wrapper {
+	margin: 0 auto;
+	text-align: center;
+	padding: 3em;
+}
+
+.blue {
+	background-color: blue;
+}
+
+.red {
+	background-color: red;
+}
+
+#contentDiv {
+	height: 100px;
+	width: 100px;
+	background: #333;
+}
+
+.coffee {
+	background: url('../images/coffee.jpg') no-repeat;
+	background-size: cover;
+	background-position: center;
+	height: 100%;
+	width: 100%;
+}
+
+.sky {
+	background: url('../images/stars-luke-pamer.jpg') no-repeat;
+	background-size: cover;
+	background-position: center;
+	height: 100%;
+	width: 100%;
+}
